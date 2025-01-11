@@ -1,0 +1,65 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "image":"https://flexiblog-minimal.netlify.app/static/637d816cd8a182db3f510acb35fe69ad/fc596/image.webp"
+
+        }
+    ],
+    "articlestext":[
+        {
+            "id":2,
+            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"John Doe"
+
+        },
+        {
+            "id":3,
+            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"Sarah Doe"
+        },
+        {
+            "id":4,
+            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"John Doe"
+
+        },
+        {
+            "id":5,
+            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"John Doe"
+
+        }
+    ],
+    "artdata":[
+        {
+            "id":6,
+            "image":"",
+            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"John Doe"
+
+        },
+        {
+            "id":7,
+            "image":"",
+            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"Sarah Doe"
+        },
+        {
+            "id":8,
+            "image":"",
+            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"John Doe"
+
+        }
+    ]
+}
