@@ -40,25 +40,98 @@
     "artdata":[
         {
             "id":6,
-            "image":"",
-            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "image":"https://flexiblog-minimal.netlify.app/static/29d105c63cec64692957366decc72da1/fc596/image.webp",
+            "title":"Texoma Youth Turns Recycled Trash Into Art",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
-            "author":"John Doe"
+            "author":"John Doe",
+            "authorimage":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAFoUlEQVR42nXSaUzbdRgH8F9hiTHxyGJiFm+nbnMQD8Y4u9KWFgo9aEsv/i2UAi1sbVdQoEA5HLRQznKtXbturCstAzYOQSe4adzM1EQTo85rS9w0GhNf+MIjcbS/r/GIyTR+k+fl88k3eR5C/pXcvALC5wpY9TVmkpb+GNEo1IVaZbmyuLBUkJ/DkVXqTfeq5ArCKGQpWqaG6HUM+d/cs30HKSkqZWlUDGlxNO0sLRK9zsvPx4E8NrL2s8HOZaNEIPxar9Wpag0MMagUKX/sGdVl/8UqZSWEl5fHkgqFpEouvT87Y98nxfnZaDdpEp5GS7JSVkolhfyEpJCHCrkMxgqtxsToiFGrTjVXVZA6Q8XtYPrjD5OdDz+asu2Ou8meJ56ayErbg7Vx129frgTpl6tBetHfQ5sNCqosLtzSy0pQq1P9Us3odpmNBmKuZFLam2y3g7ycbJa0kE+qy8seS3vyyZ8cOgluvBZJfrYSwrW14/T6aoDOtNVQo6wI6hLhLZNKBqNGuSjls0kxez/LYam5HRSyc1PF/AIiLeR179u7G10W/a13Y5O4thqkH81P4jV/H+I9h2CV82lhTiaV8fKhkRTd0pYr9miUcqIpk7D+wRzmagLgj2HpFeKPedmZ0IqEiQ6Tll7wObHsseOgSoKOai3adSLKzUin3MznEiJ2Fkp4HHNxAZuIuOzUf8B2aw1rqr+TeDsadx0yqL7nZmVALeQmB5ss9PLMKN4Oe3C8uxHBrkaEW0yQZKXT/GfTt0S5GVAIOcfFnCwi5mSnVkiLCOmxaAluzJFWrXBbj63miUZG8rm8IAfzXlfyw9goroQHcPV0P26uh3Hz5SCW26qgzn4aOWm7EgrOPli04jce+bvYYbOeEI/DSN659DoZbq67r7uufMKuKEBVcS6dsDL00mQH1gdewPWzk7h+dgpXgy684mTA5OymmTsfSFYJ96P9YMXVKrPpzhedjaS5gSHEouARu0FC3DbDS64aecKq5CcYXgbsUg5d6nVguedFXAl4cDU+jE9DHdjsrEQ1ey/l7n4waZezcaSp+ke3y/HgcJ+TuJ0NLNJcU05aa9WPttepp5qrlR84q8S0WX0A5blpNOqqx5VAHz6KDOCLuUFci/ZixqaALm8vTPxnaH+DLDnRcxAxf580fsxDZsY7U0m9RkSsutLtvXaDw9dW9/6AXQtPbUmy7NmHoDvwPN6aduHdYCcujBxG8LASutzdMAkz4TEJaLCN2Qp7bIj5nK6Yz0lmx1q2kdBYf+qUu4VERp18/0vWr6Y7LdRbL6YWQToVp+3A/oe2o7E0E/4mLbxmKSyiTHTpuTjhVNFwl3Fruq0Swe7aU4M2BfE1aVJI9MLPf15oY21+ZTESQNQ/lDwz7qQn3DYM1QlgyHoEPpsS5wYPY9wqR7MqF24jB6P2MjrSIE52MVyEehvO//XHNwjR6xtIbOFSYG1pHu9dPr+1EvHRi1EPNk71Ub/LhKXBenjNIqyG+rFwtBcO6XNokOzDiFVCx+oEiRFrGWYn2j7YXPDfdfl8lBC7YyjN7fFjNjRM1xdC1D81hnjATdcjXmzGRjHvbcCMS4/4sAMLQQ9aGQ5skucRcmpwsteSnBtvQexo97fr88d2nF86Scjs7BnG5/Nh+EhrInpymkbji/REMIDF8AA2ZwcROWLCynQrNoKtODPRhh6zGOOHhAg4tfSoqyo52WnC4smhH7774eZd33z/FSG97rGWDpcH8fjc1svnIvRY4ChmY/OYDY1iNdSFVX8bNqKDODNsxen+engcFRgwsdFbK0CXWUqnui1Ym5v6dWH91cfXLrxJyNj0YjQYXkR//8hWMDCO05Hj8HjccLa24PSkCxfjXry15MdZfweWg91wHqpEh1GAU0N2hAcbacRrpcvRCSyub/DOvbpJfgecdvS/ZozCEAAAAABJRU5ErkJggg=="
 
         },
         {
             "id":7,
-            "image":"",
-            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "image":"https://flexiblog-minimal.netlify.app/static/b8af84cd7806ab9d9a9733f6decf7f2b/fc596/image.webp",
+            "title":"21 Clean Jokes That Are So Dumb They're Actually Funny",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
-            "author":"Sarah Doe"
+            "author":"Sarah Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/cc4c6b62392829f5c3658c6842218a69/a3542/steve-grant.webp"
         },
         {
             "id":8,
-            "image":"",
-            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "image":"https://flexiblog-minimal.netlify.app/static/6b93cc53acdd3848c46dc33759ffc0fd/fc596/image.webp",
+            "title":"Top 10 Cafes in Los Angeles",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
-            "author":"John Doe"
+            "author":"Sarah Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
+
+        }
+    ],
+    "publisheddata":[
+        {
+            "id":71,
+            "title":"Texoma Youth Turns Recycled Trash Into Art",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"John Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/18c810c8f231ac22d5ec2cf2819ed68c/a3542/john-doe.webp"
+
+        },
+        {
+            "id":81,
+            "title":"21 Clean Jokes That Are So Dumb They're Actually Funny",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"Sarah Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
+        },
+        {
+            "id":91,
+            "title":"Top 10 Cafes in Los Angeles",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"Sarah Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
+
+        },
+        {
+            "id":7,
+            "title":"Texoma Youth Turns Recycled Trash Into Art",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"John Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
+
+        },
+        {
+            "id":8,
+            "title":"21 Clean Jokes That Are So Dumb They're Actually Funny",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"Sarah Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
+        },
+        {
+            "id":9,
+            "title":"Top 10 Cafes in Los Angeles",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"Sarah Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
+
+        }, {
+            "id":10,
+            "title":"Texoma Youth Turns Recycled Trash Into Art",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"John Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
+
+        },
+        {
+            "id":11,
+            "title":"21 Clean Jokes That Are So Dumb They're Actually Funny",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"Sarah Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/18c810c8f231ac22d5ec2cf2819ed68c/a3542/john-doe.webp"
+        },
+        {
+            "id":12,
+            "title":"Top 10 Cafes in Los Angeles",
+            "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+            "author":"Sarah Doe",
+            "authorimage":"https://flexiblog-minimal.netlify.app/static/cc4c6b62392829f5c3658c6842218a69/a3542/steve-grant.webp"
 
         }
     ]

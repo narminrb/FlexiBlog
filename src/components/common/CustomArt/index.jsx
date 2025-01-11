@@ -1,35 +1,28 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import "./style.scss"
 
-const CustomArt = ({image,desc,title}) => {
+const CustomArt = ({image,desc,title,authorimage,author}) => {
   return (
-    <div className="max-w-screen-xl mx-auto p-5 sm:p-10 md:p-16">
-    <div className="gap-10">
+    <div className=" mx-auto p-2 m-10 antialiased ">
+    <div className="h-[615px] transform duration-500 hover:-translate-y-1">
         <div
-            className="border-r border-b border-l border-gray-400 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r flex flex-col justify-between leading-normal">
-            <img alt={title} src={image} className="w-full mb-3"/>
-            <div className="p-4 pt-2">
+            className="shadow-md h-[615px] bg-white card  flex flex-col  leading-normal p-2">
+            <div className='image-box w-[325px] h-[240px] mb-3 overflow-hidden'><img alt={title} src={image} className="w-full h-full object-cover"/></div>
+            <div className="p-4 pt-2 justify-between">
                 <div className="mb-8">
-                    <p className="text-sm text-gray-600 flex items-center">
-                        <svg className="fill-current text-gray-500 w-3 h-3 mr-2"
-                            viewBox="0 0 20 20">
-                            <path
-                                d="M4 8V6a6 6 0 1 1 12 0v2h1a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-8c0-1.1.9-2 2-2h1zm5 6.73V17h2v-2.27a2 2 0 1 0-2 0zM7 6v2h6V6a3 3 0 0 0-6 0z">
-                            </path>
-                        </svg>
-                        Members only
-                    </p>
-                    <Link to="#" className="text-gray-900 font-bold text-lg mb-2 hover:text-indigo-600 inline-block">Can
-                        coffee make you a better developer?</Link>
-                    <p className="text-gray-700 text-sm">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                        Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.</p>
+                <div className='food max-w-[100px] p-1 mb-6'>
+                    <p> Art & Culture</p>
+                    </div>
+                    <Link to="#" className="titles  font-bold h-[80px] inline-block">{title}</Link>
+                    <p className="descrip">{desc}</p>
                 </div>
                 <div className="flex items-center">
-                    <Link
-                        to="#"><img className="w-10 h-10 rounded-full mr-4" src="https://tailwindcss.com/img/jonathan.jpg" alt="Avatar of Jonathan Reinink"/></Link>
+                    <Link  className='w-[48px] h-[48px] overflow-hidden rounded-full mr-3'
+                        to="#"><img className="w-full h-full object-cover" src={authorimage} alt={author}/></Link>
                     <div className="text-sm">
-                        <Link to="#" className="text-gray-900 font-semibold leading-none hover:text-indigo-600">Jonathan
-                            Reinink</Link>
+                        <Link to="#" className="text-gray-900 font-semibold leading-none hover:text-indigo-600">{author}
+                            </Link>
                         <p className="text-gray-600">Aug 18</p>
                     </div>
                 </div>

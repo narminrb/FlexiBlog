@@ -25,6 +25,19 @@ const Header = () => {
           />
         </div>
       </Link>
+
+      <div className="flex input justify-center col-span-1">
+            <i className="ri-search-line"></i> 
+          <input
+            name="search"
+            type="text"
+            className=" border outline-none w-full"
+            placeholder="Discover news,articles and more."
+          />
+
+        </div>
+
+
       <div className="md:hidden">
         <button
           id="menu-toggle"

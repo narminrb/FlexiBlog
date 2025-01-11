@@ -6,3 +6,25 @@
     margin-left: 0.5rem;
     margin-right: 0.5rem;
 }
+
+
+.input{
+    box-sizing: border-box;
+    margin: 0;
+    min-width: 0;
+    width: 300px;
+    padding: 5px;
+    border-radius: 4px;
+    background-color: #e2e8f0;
+    outline: none;
+    margin-left: 0.25rem;
+    input{
+        color: #718096;
+        background-color: transparent;
+    }
+    i{
+        padding: 5px;
+        color: #718096;
+        font-weight: 700;
+    }
+}
