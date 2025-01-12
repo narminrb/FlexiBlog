@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import {HeaderItems} from './HeaderItems'
 import { Link } from 'react-router-dom'
 
@@ -14,8 +14,38 @@ const Header = () => {
     url:'/contact'
 }
 ]
+useEffect(() => {
+  const endpoints = ['data', 'articlestext','artdata','publisheddata']; 
+  Promise.all(
+    endpoints.map((endpoint) =>
+      fetch(`http://localhost:3001/${endpoint}`)
+        .then((res) => {
+          if (!res.ok) throw new Error(`Failed to fetch ${endpoint}`);
+          return res.json();
+        })
+    )
+  )
+    .then((results) => {
+      const combinedData = results.flat(); 
+      setFilterData(combinedData); 
+    })
+    .catch((err) => console.error("Error fetching resources:", err));
+}, []);
+
+
+const [data,setData] = useState([]);
+const [filterData, setFilterData] = useState([]);
+
+const handleFilter = (value) => {
+  const res = filterData.filter(f => f.title.toLowerCase().includes(value))
+  setData(res);
+  if(value === ""){
+    setData([])
+  }
+}
+
   return (
-    <header className="bg-white px-0 py-10 sticky top-0 z-50">
+    <header className="bg-white px-0 py-8 sticky top-0 z-50">
     <div className="container mx-auto flex items-center justify-between  max-w-screen-lg">
       <Link to="#" className="flex items-center text-primary hover:text-secondary">
         <div>
@@ -26,16 +56,29 @@ const Header = () => {
         </div>
       </Link>
 
-      <div className="flex input justify-center col-span-1">
+    <div>
+    <div className="flex input justify-center col-span-1">
             <i className="ri-search-line"></i> 
           <input
             name="search"
             type="text"
+            onChange={e => handleFilter(e.target.value)}
             className=" border outline-none w-full"
             placeholder="Discover news,articles and more."
           />
 
+        <div className='search-result'>
+          {
+            data && data.map((d, i) => (
+              <div key={i}>
+                {d.title}
+              </div>
+            ))
+          }
         </div>
+        </div>
+    </div>
+
 
 
       <div className="md:hidden">

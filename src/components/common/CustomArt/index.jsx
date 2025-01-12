@@ -8,7 +8,7 @@ const CustomArt = ({image,desc,title,authorimage,author}) => {
     <div className="h-[615px] transform duration-500 hover:-translate-y-1">
         <div
             className="shadow-md h-[615px] bg-white card  flex flex-col  leading-normal p-2">
-            <div className='image-box w-[325px] h-[240px] mb-3 overflow-hidden'><img alt={title} src={image} className="w-full h-full object-cover"/></div>
+            <div className='image-box w-full h-[240px] mb-3 overflow-hidden'><img alt={title} src={image} className="w-full h-full object-cover"/></div>
             <div className="p-4 pt-2 justify-between">
                 <div className="mb-8">
                 <div className='food max-w-[100px] p-1 mb-6'>

@@ -2,7 +2,7 @@
     "data":[
         {
             "id":1,
-            "name":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "title":"The Pleasure of Defying Food Fashions",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "image":"https://flexiblog-minimal.netlify.app/static/637d816cd8a182db3f510acb35fe69ad/fc596/image.webp"
 
@@ -18,20 +18,20 @@
         },
         {
             "id":3,
-            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "title":"Long-Lasting Fashion Items That Are Worth The Investment",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"Sarah Doe"
         },
         {
             "id":4,
-            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "title":"20 Creative Pasta Recipes You'll Probably Want To Whip Up ASAP",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"John Doe"
 
         },
         {
             "id":5,
-            "title":"Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+            "title":"I Went To Seattle With No Clothes The Empty Suitcase Show",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"John Doe"
 
@@ -68,7 +68,7 @@
     "publisheddata":[
         {
             "id":71,
-            "title":"Texoma Youth Turns Recycled Trash Into Art",
+            "title":"This US States Test Doesn't End Until",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"John Doe",
             "authorimage":"https://flexiblog-minimal.netlify.app/static/18c810c8f231ac22d5ec2cf2819ed68c/a3542/john-doe.webp"
@@ -76,14 +76,14 @@
         },
         {
             "id":81,
-            "title":"21 Clean Jokes That Are So Dumb They're Actually Funny",
+            "title":"The Right Way to Apply Cream Blush",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"Sarah Doe",
             "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
         },
         {
             "id":91,
-            "title":"Top 10 Cafes in Los Angeles",
+            "title":"The Pleasure of Defying Food Fashions",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"Sarah Doe",
             "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
@@ -99,21 +99,21 @@
         },
         {
             "id":8,
-            "title":"21 Clean Jokes That Are So Dumb They're Actually Funny",
+            "title":"Fine Art Exhibition Winners Named",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"Sarah Doe",
             "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
         },
         {
             "id":9,
-            "title":"Top 10 Cafes in Los Angeles",
+            "title":"Fashion College Probes Runway Show Criticized",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"Sarah Doe",
             "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
 
         }, {
             "id":10,
-            "title":"Texoma Youth Turns Recycled Trash Into Art",
+            "title":"Are You A Pogue Or A Kook From Outer Banks?",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"John Doe",
             "authorimage":"https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/a3542/jane-smith.webp"
@@ -121,14 +121,14 @@
         },
         {
             "id":11,
-            "title":"21 Clean Jokes That Are So Dumb They're Actually Funny",
+            "title":"I Had My Mom Try To Describe 17 Disney Movies",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"Sarah Doe",
             "authorimage":"https://flexiblog-minimal.netlify.app/static/18c810c8f231ac22d5ec2cf2819ed68c/a3542/john-doe.webp"
         },
         {
             "id":12,
-            "title":"Top 10 Cafes in Los Angeles",
+            "title":"21 Clean Jokes That Are So Dumb They're Actually Funny",
             "desc":"Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
             "author":"Sarah Doe",
             "authorimage":"https://flexiblog-minimal.netlify.app/static/cc4c6b62392829f5c3658c6842218a69/a3542/steve-grant.webp"

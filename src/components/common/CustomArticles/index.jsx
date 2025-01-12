@@ -1,13 +1,13 @@
 import React from 'react'
 import "./style.scss"
 
-const CustomArticles = ({name,desc,image}) => {
+const CustomArticles = ({title,desc,image}) => {
   return (
     <section className="max-w-screen-lg container mx-auto antialiased rounded-xl overflow-hidden">
     <article className="flex flex-wrap md:flex-nowrap shadow-lg mx-auto max-w-3xl group cursor-pointer transform duration-500 hover:-translate-y-1">
       
       <div className="w-full md:w-1/2">
-        <img className="w-full h-full object-cover" src={image} alt={name} />
+        <img className="w-full h-full object-cover" src={image} alt={title} />
       </div>
   
       <div className="w-full md:w-1/2 py-5 pt-20 bg-white">
@@ -15,7 +15,7 @@ const CustomArticles = ({name,desc,image}) => {
         <div className='food max-w-[100px] p-1 my-2'>
            <p> Food & Drink</p>
         </div>
-          <h1 className="name">{name}</h1>
+          <h1 className="name">{title}</h1>
           <p className="desc leading-relaxed">
             {desc}
           </p>

@@ -6,7 +6,7 @@ const CustomArticleText = ({title,desc,date,author}) => {
   return (
     <section className="mb-3 antialiased">
     <div className="flex flex-col justify-center transform duration-500 hover:-translate-y-1">
-        <div className="smallcard flex flex-col h-full shadow justify-between  p-4 bg-white">
+        <div className="smallcard flex flex-col h-full shadow justify-between  p-3 bg-white">
             <div>
                 <div className="my-1">
                     <p className='title'>{title}.</p>

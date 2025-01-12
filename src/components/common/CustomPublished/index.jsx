@@ -4,16 +4,16 @@ import "./style.scss"
 
 const CustomPublished = ({desc,title,authorimage,author}) => {
   return (
-    <div className=" mx-auto p-3 antialiased">
-       <div className="h-[325px] w-[340px] transform duration-500 hover:-translate-y-1">
+    <div className=" mx-auto p-2 antialiased">
+       <div className="h-auto w-full transform duration-500 hover:-translate-y-1">
            <div
-               className="shadow-md h-[325px] bg-white card flex flex-col  leading-normal p-2">
+               className="shadow-md h-[325px] bg-white card flex flex-col  leading-normal p-4">
                <div className="p-4 pt-2 justify-between">
-                   <div className="mb-8">
+                   <div className="mb-6">
                    <div className='food max-w-[100px] p-1 mb-6'>
                        <p> Art & Culture</p>
                        </div>
-                       <Link to="#" className="titles  font-bold h-[80px] inline-block">{title}</Link>
+                       <Link to="#" className="titles  font-bold h-[70px] inline-block">{title}</Link>
                        <p className="descrip">{desc}</p>
                    </div>
                    <div className="flex items-center">
